@@ -1,0 +1,58 @@
+body{
+
+margin: 0px;
+}
+h1{
+	background-color: #8ce890;
+	margin: 0px;
+	font-style: italic;
+	font-size: 50px;
+	text-shadow: 6px -1px 6px #464545;
+}
+.colorRed{
+	color: #a21355;
+}
+.colorBlue{
+	color: #4356bd;
+}
+
+p{
+
+font-size: 25px;
+
+font-style: oblique;
+
+margin: 15px;
+}
+div{
+	
+width: 1000px;
+	
+background-color: #857f8657;
+	
+margin-top: 70px;
+	
+margin-left: auto;
+	
+margin-right: auto;
+	
+box-shadow: -3px -3px 8px 1px #274800;
+	
+text-align: center;
+	
+}
+.size{
+	font-size: 30px;
+	color: orange;
+}
+.hadersize
+{
+	font-size: 40px;
+	width: 200px;
+	height: 50px;
+	color: #000000;
+	text-align: center;
+	margin: 0px;
+	margin-right: auto;
+	margin-left: auto;
+}
